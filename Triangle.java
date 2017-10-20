@@ -59,11 +59,11 @@ public class Triangle {
     public static void main(String [] args){
         Scanner input = new Scanner(System.in);
         
-        System.out.println("Input the base: ");
+        System.out.print("Input the base: ");
         // use the scanner to get a string base
         String base = input.nextLine();
         
-        System.out.println("Input the height: ");
+        System.out.print("Input the height: ");
         // use the scanner to get a string height
         String height = input.nextLine();
         
