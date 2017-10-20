@@ -1,6 +1,8 @@
 import java.util.*;
 import java.lang.Math;
-
+/**
+ * @author Alexander Hurst
+ */
 public class Triangle {
     int intBase, intHeight, intHypotenuse;
     double doubleBase, doubleHeight, doubleHypotenuse;
