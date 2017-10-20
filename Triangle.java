@@ -45,7 +45,7 @@ public class Triangle {
         System.out.println("Int Hypotenuse of Triangle: " + this.intHypotenuse);
     }
     public void areaTriangleDouble(){
-        // get the height
+        // get the hypotenuse
         // calculate area
 
         double area = (this.doubleBase * this.doubleHeight)/2;
